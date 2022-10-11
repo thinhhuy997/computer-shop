@@ -1,0 +1,25 @@
+{
+  "category_id": 1,
+  "items": [
+    {
+      "product_name": "\n\t\t\t\t\t\t\tCPU Intel Core i5 11400F (2.60 Up to 4.40GHz, 12M, 6 Cores 12 Threads) Box Chính Hãng (Không GPU)\n\t\t\t\t\t\t",
+      "product_price": "3590000",
+      "product_img_urls": "//product.hstatic.net/200000420363/product/cpu-i5-11400f-600x600_9035ba693e094acbbc610fbfb9a9ff1d_master.jpg",
+      "product_description": "<div class=\"hrvproduct-tabs ch\">\n<ul>\n<li>Bộ xử lý: I5 11400F – Rocket Lake</li>\n<li>Bộ nhớ đệm: 12 MB Cache</li>\n<li>Tần số cơ sở của bộ xử lý: 2.60 GHz</li>\n<li>Tần số turbo tối đa: 4.40 GHz</li>\n<li>Hỗ trợ socket: FCLGA1200</li>\n<li>Số lõi: 6, Số luồng: 12</li>\n<li>TDP: 65 W</li>\n<li>Đồ họa tích hợp: Không</li>\n</ul>\n</div>"
+    },
+    {
+      "product_name": "\n\t\t\t\t\t\t\tCPU Intel Core i3 10105F (3.70 Up to 4.40GHz, 6M, 4 Cores 8 Threads) Box Chính Hãng\n\t\t\t\t\t\t",
+      "product_price": "1990000",
+      "product_img_urls": "//product.hstatic.net/200000420363/product/cpu-i3-10105f-2-600x600_87a1ae38cc384611ade31432fa531f54_master.jpg",
+      "product_description": "<div class=\"hrvproduct-tabs ch\">\n<ul>\n<li>Bộ xử lý: I3 10105F – Comet Lake Refresh</li>\n<li>Bộ nhớ đệm: 6 MB Cache</li>\n<li>Tần số cơ sở của bộ xử lý: 3.70 GHz</li>\n<li>Tần số turbo tối đa: 4.40 GHz</li>\n<li>Hỗ trợ socket: FCLGA1200</li>\n<li>Số lõi: 4, Số luồng: 8</li>\n<li>TDP: 65 W</li>\n<li>Đồ họa tích hợp: Không</li>\n</ul>\n</div>"
+    },
+    {
+      "product_name": "\n\t\t\t\t\t\t\tCPU Intel Core i5 11400 (2.60 Up to 4.40GHz, 12M, 6 Cores 12 Threads) Box Chính Hãng\n\t\t\t\t\t\t",
+      "product_price": "4450000",
+      "product_img_urls": "//product.hstatic.net/200000420363/product/cpu-i5-11400f-b-cty-600x600_b551d01fe2924af18bc295106ff52a57_master.jpg",
+      "product_description": "<div class=\"hrvproduct-tabs ch\">\n<ul>\n<li>Bộ xử lý: I5 11400 – Rocket Lake</li>\n<li>Bộ nhớ đệm: 12 MB Cache</li>\n<li>Tần số cơ sở của bộ xử lý: 2.60 GHz</li>\n<li>Tần số turbo tối đa: 4.40 GHz</li>\n<li>Hỗ trợ socket: FCLGA1200</li>\n<li>Số lõi: 6, Số luồng: 12</li>\n<li>TDP: 65 W</li>\n<li>Đồ họa tích hợp: Intel UHD Graphics 730</li>\n</ul>\n</div>"
+    }
+  ],
+  "link": "http://127.0.0.1:8000/api/product-multiple-create-by-category/1"
+}
+
